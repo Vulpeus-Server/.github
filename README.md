@@ -1,4 +1,5 @@
-# <img src="vulpeus_logo.svg" alt="Vulpeus Logo" width="5%">ㅤ<b><font size="20px">**白狐鯖 - Vulpeus**</font></b>
+<img src="vulpeus_logo.svg" alt="Vulpeus Logo" width="5%">ㅤ<b><font size="100%">白狐鯖 - Vulpeus</font></b>
+---
 
 <a href="https://discord.gg/VX6xg9mxfa" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="CraftersHub_Discord"></a> <a href="https://www.youtube.com/@vulpeus_server" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="vulpeus_youtube"></a> <a href="https://x.com/vulpeus_server/" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="vulpeus_x"></a>
 
