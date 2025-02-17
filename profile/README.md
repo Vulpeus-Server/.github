@@ -12,6 +12,4 @@
 
 ## Repositories
 
-[![Kyoyu](https://github-readme-stats.vercel.app/api/pin/?username=Vulpeus-Server&repo=kyoyu&theme=dark)](https://github.com/Vulpeus-Server/kyoyu)
-
-[![vulpeus-carpet](https://github-readme-stats.vercel.app/api/pin/?username=Vulpeus-Server&repo=vulpeus-carpet&theme=dark)](https://github.com/Vulpeus-Server/vulpeus-carpet)
+[![Kyoyu](https://github-readme-stats.vercel.app/api/pin/?username=Vulpeus-Server&repo=kyoyu&theme=dark)](https://github.com/Vulpeus-Server/kyoyu) [![vulpeus-carpet](https://github-readme-stats.vercel.app/api/pin/?username=Vulpeus-Server&repo=vulpeus-carpet&theme=dark)](https://github.com/Vulpeus-Server/vulpeus-carpet)
